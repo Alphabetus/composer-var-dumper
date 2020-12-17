@@ -1,0 +1,20 @@
+{
+  "name": "alphabetus/var-dumper",
+  "description": "Basic var dump into file",
+  "license": "MIT",
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "Alphabetus",
+      "email": "contact@alphawebmaker.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "AlphaLogger\\": "src/AlphaLogger"
+    }
+  }
+}
